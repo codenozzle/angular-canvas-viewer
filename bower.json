@@ -1,9 +1,9 @@
 {
-  "name": "angular-raphael-viewer",
+  "name": "angularjs-canvas-viewer",
   "authors": [
-    "Fabrice Crohas <fcrohas@gmail.com>"
+    "Codenozzle <codenozzle@gmail.com>"
   ],
-  "description": "Image viewer using raphaeljs",
+  "description": "Angularjs document viewer",
   "main": "module.js",
   "moduleType": [],
   "keywords": [
@@ -13,8 +13,8 @@
     "viewer"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/fcrohas/angular-raphael-viewer",
-  "private": true,
+  "homepage": "https://github.com/codenozzle/angular-canvas-viewer",
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
